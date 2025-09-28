@@ -14,7 +14,7 @@ The winner is decided based on classic game rules.
 ## Tech Stack
 - **HTML** – Game layout
 - **CSS** – Styling
-- **JavaScript ** – Game logic
+- **JavaScript** – Game logic
 
 ## How to Play
 1. Open the game in your browser.
@@ -26,8 +26,3 @@ The winner is decided based on classic game rules.
    - ✂️ Scissors beats Paper
 5. Keep playing to increase your score!
 
-## Installation
-Clone the repo and open `index.html` in your browser:
-```bash
-git clone https://github.com/your-username/rock-paper-scissors-js.git
-cd rock-paper-scissors-js
